@@ -1,0 +1,9 @@
+.galery {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  margin: 20px;
+  padding: 20px;
+}
